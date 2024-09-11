@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("img/ek.jpg");
+}
+
+.huvudtitel{
+    text-align: center;
+    color: coral;
+    background-color:lightblue;
+}
+
+.titlar{
+    color: aquamarine;
+    background-color: purple;
+}
+
+p{
+    color: black;
+    background-color: white;
+}
+
+.links ul{
+    color: black;
+}
+
+a{
+    background-color: black;
+}
+a:visited{
+    color: white;
+}
